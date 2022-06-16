@@ -1,0 +1,14 @@
+#_copy {
+    align-items: center;
+    background: #4c98f7;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    font-size: 13px;
+    height: 30px;
+    justify-content: center;
+    position: absolute;
+    width: 60px;
+    z-index: 1000;
+}
